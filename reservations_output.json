@@ -1,0 +1,2424 @@
+{
+    "57278367": {
+        "Guest": "James LaMar",
+        "Reservation": "2541307111",
+        "Confirmation": "57278367",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-23T07:24:00-07:00",
+        "Booking amount": "80.65 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431953434857",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "893",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 63.1,
+        "Total payout": 91.35,
+        "Hotel confirmation code": "57278367",
+        "Status": "Booked",
+        "Itinerary number": 72078323854354,
+        "Reservation made": "2026-08-23T07:24:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP1EXP",
+        "Rate plan name": "Stay 1 Night & Save",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 72,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 72,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 72
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-23T07:24:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-23T07:24:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:39.630Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-23T07:24:00-07:00"
+        }
+    },
+    "56077737": {
+        "Guest": "Shannon Meaux",
+        "Reservation": "2536880288",
+        "Confirmation": "56077737",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-27",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-17T11:26:00-07:00",
+        "Booking amount": "146.18 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567172287686811",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "345",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 56.79,
+                "priceCurrency": "USD",
+                "priceAmount": 66.42,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -7.38,
+                "discountCostAmount": -6.31
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 56.79,
+                "priceCurrency": "USD",
+                "priceAmount": 66.42,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -7.38,
+                "discountCostAmount": -6.31
+            }
+        ],
+        "Subtotal": 113.58,
+        "Total payout": 165.44,
+        "Hotel confirmation code": "56077737",
+        "Status": "Booked",
+        "Itinerary number": 73524344211848,
+        "Reservation made": "2026-08-17T11:26:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR1O",
+        "Rate plan name": "Member Only Rate - NR",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 0,
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25",
+                    "2026-08-26"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": -1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-17T11:26:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-17T11:26:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:41.839Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-17T11:26:00-07:00"
+        }
+    },
+    "57843103": {
+        "Guest": "India Day",
+        "Reservation": "2543402391",
+        "Confirmation": "57843103",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-25T20:38:00-07:00",
+        "Booking amount": "80.65 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431955095946",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "026",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 63.1,
+        "Total payout": 91.35,
+        "Hotel confirmation code": "57843103",
+        "Status": "Booked",
+        "Itinerary number": 72078425076582,
+        "Reservation made": "2026-08-25T20:38:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP1EXP",
+        "Rate plan name": "Stay 1 Night & Save",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 72,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 72,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 72
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-25T20:38:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-25T20:38:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:44.186Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-25T20:38:00-07:00"
+        }
+    },
+    "50888245": {
+        "Guest": "MaryCatherine Jones",
+        "Reservation": "2517064751",
+        "Confirmation": "50888245",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Accessible, Non Smoking",
+        "Booked on": "2026-07-23T13:43:00-07:00",
+        "Booking amount": "85.64 USD",
+        "Payment Information": "Hotel collects payment from the traveler",
+        "EVC Card Number": null,
+        "EVC Expires": null,
+        "EVC CVV": null,
+        "EVC Billing Address": null,
+        "Real Card Number": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf9910",
+        "Real Expires": {
+            "year": 2027,
+            "month": 4
+        },
+        "Real CVV": "\u25cf\u25cf\u25cf",
+        "Real Billing Address": {
+            "addressLine1": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "city": "",
+            "postalCode": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "province": "",
+            "countryCode": "ARE"
+        },
+        "Room Type": "Room, 1 King Bed, Accessible, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 73.8,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 11.89,
+                "discountPriceAmount": -8.2,
+                "discountCostAmount": -8.2
+            }
+        ],
+        "Subtotal": 73.8,
+        "Total payout": 96.34,
+        "Hotel confirmation code": "50888245",
+        "Status": "Booked",
+        "Itinerary number": 72077135671904,
+        "Reservation made": "2026-07-23T13:43:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SHCOU",
+        "Rate plan name": "Expedia Members Only",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-07-23T13:43:00-07:00",
+            "hotelConfirmationDateTime": "2026-07-23T13:43:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:46.191Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-07-23T13:43:00-07:00"
+        }
+    },
+    "55399696": {
+        "Guest": "Xavier Johnson",
+        "Reservation": "2534267969",
+        "Confirmation": "55399696",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-28",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-13T20:32:00-07:00",
+        "Booking amount": "0 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431944162898",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "072",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-27",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 0.0,
+        "Total payout": 0.0,
+        "Hotel confirmation code": "55399696",
+        "Status": "Cancelled",
+        "Itinerary number": 73521854026808,
+        "Reservation made": "2026-08-13T20:32:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP2EXP",
+        "Rate plan name": "Stay 2 Nights & Save",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-13T20:32:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-13T20:32:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:48.622Z",
+            "cancellationDateTime": "2026-08-20T03:46:00-07:00",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-20T03:47:00-07:00"
+        }
+    },
+    "50848491": {
+        "Guest": "Kalah Frazier",
+        "Reservation": "2516941463",
+        "Confirmation": "50848491",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-27",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-07-23T10:44:00-07:00",
+        "Booking amount": "157.64 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567173979372835",
+        "EVC Expires": "7/2029",
+        "EVC CVV": "799",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 59.59,
+                "priceCurrency": "USD",
+                "priceAmount": 69.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 59.59,
+                "priceCurrency": "USD",
+                "priceAmount": 69.0,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 119.18,
+        "Total payout": 176.46,
+        "Hotel confirmation code": "50848491",
+        "Status": "Booked",
+        "Itinerary number": 73502762857219,
+        "Reservation made": "2026-07-23T10:44:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR2X",
+        "Rate plan name": "Advance Purchase Rate",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 0,
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25",
+                    "2026-08-26"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": -1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-07-23T10:44:00-07:00",
+            "hotelConfirmationDateTime": "2026-07-23T10:44:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:50.742Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-07-23T10:44:00-07:00"
+        }
+    },
+    "55898999": {
+        "Guest": "DANIELA BERTOLDI",
+        "Reservation": "2536179202",
+        "Confirmation": "55898999",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-16T14:15:00-07:00",
+        "Booking amount": "73.08 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567171973415824",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "898",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 56.79,
+                "priceCurrency": "BRL",
+                "priceAmount": 346.9,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -38.54,
+                "discountCostAmount": -6.31
+            }
+        ],
+        "Subtotal": 56.79,
+        "Total payout": 431.98,
+        "Hotel confirmation code": "55898999",
+        "Status": "Booked",
+        "Itinerary number": 72078079444570,
+        "Reservation made": "2026-08-16T14:15:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR1O",
+        "Rate plan name": "Member Only Rate - NR",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "BRL",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 0,
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": -1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-16T14:15:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-16T14:15:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:52.698Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-16T14:15:00-07:00"
+        }
+    },
+    "25036855": {
+        "Guest": "Robert Blanchette",
+        "Reservation": "2511182639",
+        "Confirmation": "25036855",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-27",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-07-16T09:58:00-07:00",
+        "Booking amount": "89.34 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567173293219076",
+        "EVC Expires": "3/2029",
+        "EVC CVV": "177",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 66.18,
+                "priceCurrency": "USD",
+                "priceAmount": 77.4,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -8.6,
+                "discountCostAmount": -7.35
+            }
+        ],
+        "Subtotal": 66.18,
+        "Total payout": 100.56,
+        "Hotel confirmation code": "25036855",
+        "Status": "Booked",
+        "Itinerary number": 73397945717428,
+        "Reservation made": "2026-07-16T09:58:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SEMOU",
+        "Rate plan name": "Expedia Members Only",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-07-16T09:58:00-07:00",
+            "hotelConfirmationDateTime": "2026-07-16T09:58:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:54.710Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-07-16T09:58:00-07:00"
+        }
+    },
+    "54501736": {
+        "Guest": "Christie Goswick",
+        "Reservation": "2530819280",
+        "Confirmation": "54501736",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-09T19:06:00-07:00",
+        "Booking amount": "80.64 USD",
+        "Payment Information": "Hotel collects payment from the traveler",
+        "EVC Card Number": null,
+        "EVC Expires": null,
+        "EVC CVV": null,
+        "EVC Billing Address": null,
+        "Real Card Number": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf1492",
+        "Real Expires": {
+            "year": 2028,
+            "month": 12
+        },
+        "Real CVV": "\u25cf\u25cf\u25cf",
+        "Real Billing Address": {
+            "addressLine1": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "city": "Ellijay",
+            "postalCode": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "province": "GA",
+            "countryCode": "USA"
+        },
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 73.8,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 11.89,
+                "discountPriceAmount": -8.2,
+                "discountCostAmount": -8.2
+            }
+        ],
+        "Subtotal": 73.8,
+        "Total payout": 91.34,
+        "Hotel confirmation code": "54501736",
+        "Status": "Booked",
+        "Itinerary number": 72077820404142,
+        "Reservation made": "2026-08-09T19:06:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SHCOU",
+        "Rate plan name": "Expedia Members Only",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-09T19:06:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-09T19:06:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:56.980Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-09T19:06:00-07:00"
+        }
+    },
+    "55365987": {
+        "Guest": "Jade Williams",
+        "Reservation": "2534151679",
+        "Confirmation": "55365987",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-13T17:29:00-07:00",
+        "Booking amount": "81.49000000000001 USD",
+        "Payment Information": "Hotel collects payment from the traveler: Advance purchase - charge now",
+        "EVC Card Number": null,
+        "EVC Expires": null,
+        "EVC CVV": null,
+        "EVC Billing Address": null,
+        "Real Card Number": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf1783",
+        "Real Expires": {
+            "year": 2029,
+            "month": 8
+        },
+        "Real CVV": "\u25cf\u25cf\u25cf",
+        "Real Billing Address": {
+            "addressLine1": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "city": "",
+            "postalCode": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "province": "",
+            "countryCode": "USA"
+        },
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 74.62,
+                "priceCurrency": "USD",
+                "priceAmount": 74.62,
+                "commisionAmount": 10.82
+            }
+        ],
+        "Subtotal": 74.62,
+        "Total payout": 92.31,
+        "Hotel confirmation code": "55365987",
+        "Status": "Booked",
+        "Itinerary number": 72077978313169,
+        "Reservation made": "2026-08-13T17:29:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SMFLXR",
+        "Rate plan name": "SMFLXX",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 72,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 72,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 72
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-13T17:29:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-13T17:29:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:34:59.040Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-13T17:29:00-07:00"
+        }
+    },
+    "47704996": {
+        "Guest": "Michael Barrett",
+        "Reservation": "2504891252",
+        "Confirmation": "47704996",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-27",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-07-08T19:39:00-07:00",
+        "Booking amount": "79.04 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567170650448611",
+        "EVC Expires": "7/2029",
+        "EVC CVV": "393",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 61.77,
+                "priceCurrency": "USD",
+                "priceAmount": 72.25,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 61.77,
+        "Total payout": 89.52,
+        "Hotel confirmation code": "47704996",
+        "Status": "Booked",
+        "Itinerary number": 72076520718155,
+        "Reservation made": "2026-07-08T19:39:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR2X",
+        "Rate plan name": "Advance Purchase Rate",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 0,
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-26"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": -1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-07-08T19:39:00-07:00",
+            "hotelConfirmationDateTime": "2026-07-08T19:39:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:01.779Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-07-08T19:39:00-07:00"
+        }
+    },
+    "54830463": {
+        "Guest": "Micah Tue",
+        "Reservation": "2532149503",
+        "Confirmation": "54830463",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-11T09:42:00-07:00",
+        "Booking amount": "80.65 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431936723277",
+        "EVC Expires": "7/2031",
+        "EVC CVV": "241",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -8.2,
+                "discountCostAmount": -7.01
+            }
+        ],
+        "Subtotal": 63.1,
+        "Total payout": 91.35,
+        "Hotel confirmation code": "54830463",
+        "Status": "Booked",
+        "Itinerary number": 72077881363975,
+        "Reservation made": "2026-08-11T09:42:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SEMBR",
+        "Rate plan name": "Member Only Rate",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-11T09:42:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-11T09:42:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:04.515Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-11T09:42:00-07:00"
+        }
+    },
+    "57628177": {
+        "Guest": "Kia Hawkins",
+        "Reservation": "2542608198",
+        "Confirmation": "57628177",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-31",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-24T21:09:00-07:00",
+        "Booking amount": "0 USD",
+        "Payment Information": "Hotel collects payment from the traveler",
+        "EVC Card Number": null,
+        "EVC Expires": null,
+        "EVC CVV": null,
+        "EVC Billing Address": null,
+        "Real Card Number": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf1932",
+        "Real Expires": {
+            "year": 2028,
+            "month": 5
+        },
+        "Real CVV": "\u25cf\u25cf\u25cf",
+        "Real Billing Address": {
+            "addressLine1": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "city": "Any city",
+            "postalCode": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "province": "MA",
+            "countryCode": "USA"
+        },
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-27",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-28",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-29",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-30",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 0.0,
+        "Total payout": 0.0,
+        "Hotel confirmation code": "57628177",
+        "Status": "Cancelled",
+        "Itinerary number": 73529575744256,
+        "Reservation made": "2026-08-24T21:09:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP2R",
+        "Rate plan name": "Stay 2 Nights & Save",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-24T21:09:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-24T21:09:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:06.484Z",
+            "cancellationDateTime": "2026-08-25T06:41:00-07:00",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-25T06:41:00-07:00"
+        }
+    },
+    "57676926": {
+        "Guest": "Tonie Curry",
+        "Reservation": "2542857519",
+        "Confirmation": "57676926",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-27",
+        "Room": "Room, 2 Queen Beds, Non Smoking",
+        "Booked on": "2026-08-25T06:24:00-07:00",
+        "Booking amount": "87.1 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431951082542",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "714",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 2 Queen Beds, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 68.49,
+                "priceCurrency": "USD",
+                "priceAmount": 80.1,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -8.9,
+                "discountCostAmount": -7.61
+            }
+        ],
+        "Subtotal": 68.49,
+        "Total payout": 98.71,
+        "Hotel confirmation code": "57676926",
+        "Status": "Booked",
+        "Itinerary number": 72078397204509,
+        "Reservation made": "2026-08-25T06:24:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SEMBR",
+        "Rate plan name": "Member Only Rate",
+        "Guest count": 3,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-25T06:24:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-25T06:24:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:08.607Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-25T06:24:00-07:00"
+        }
+    },
+    "57729296": {
+        "Guest": "Arinze Ezirike",
+        "Reservation": "2543047843",
+        "Confirmation": "57729296",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-25T10:55:00-07:00",
+        "Booking amount": "80.65 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567171871600246",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "088",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 63.1,
+        "Total payout": 91.35,
+        "Hotel confirmation code": "57729296",
+        "Status": "Booked",
+        "Itinerary number": 72078407025976,
+        "Reservation made": "2026-08-25T10:55:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP1EXP",
+        "Rate plan name": "Stay 1 Night & Save",
+        "Guest count": 2,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 72,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 72,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 72
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-25T10:55:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-25T10:55:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:10.773Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-25T10:55:00-07:00"
+        }
+    },
+    "57783829": {
+        "Guest": "SOURAV SEN",
+        "Reservation": "2543214855",
+        "Confirmation": "57783829",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 2 Queen Beds, Non Smoking",
+        "Booked on": "2026-08-25T15:14:00-07:00",
+        "Booking amount": "74 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567174480870135",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "874",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 2 Queen Beds, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 57.84,
+                "priceCurrency": "USD",
+                "priceAmount": 75.12,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 57.84,
+        "Total payout": 81.79,
+        "Hotel confirmation code": "57783829",
+        "Status": "Booked",
+        "Itinerary number": 9089819545710,
+        "Reservation made": "2026-08-25T15:14:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": "2 Queen Beds",
+        "Rate plan code": "LOPQ5",
+        "Rate plan name": "Opaque LOPQ5",
+        "Guest count": 3,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 0,
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": -1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-25T15:14:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-25T15:14:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:13.866Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-25T15:14:00-07:00"
+        }
+    },
+    "57620843": {
+        "Guest": "yelena acevedo",
+        "Reservation": "2542574724",
+        "Confirmation": "57620843",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-27",
+        "Room": "Studio Suite, 1 King Bed with Sofa bed, Non Smoking",
+        "Booked on": "2026-08-24T20:03:00-07:00",
+        "Booking amount": "89.57 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431958329995",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "193",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Studio Suite, 1 King Bed with Sofa bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 70.79,
+                "priceCurrency": "USD",
+                "priceAmount": 82.8,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -9.2,
+                "discountCostAmount": -7.87
+            }
+        ],
+        "Subtotal": 70.79,
+        "Total payout": 99.92,
+        "Hotel confirmation code": "57620843",
+        "Status": "Booked",
+        "Itinerary number": 73529537850467,
+        "Reservation made": "2026-08-24T20:03:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SEMBR",
+        "Rate plan name": "Member Only Rate",
+        "Guest count": 3,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-24T20:03:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-24T20:03:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:16.073Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-24T20:03:00-07:00"
+        }
+    },
+    "56122295": {
+        "Guest": "Haiyan Zhang",
+        "Reservation": "2537009572",
+        "Confirmation": "56122295",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 2 Queen Beds, Non Smoking",
+        "Booked on": "2026-08-17T14:26:00-07:00",
+        "Booking amount": "78.9 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431943970309",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "828",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 2 Queen Beds, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 61.64,
+                "priceCurrency": "USD",
+                "priceAmount": 72.09,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -8.01,
+                "discountCostAmount": -6.85
+            }
+        ],
+        "Subtotal": 61.64,
+        "Total payout": 89.35,
+        "Hotel confirmation code": "56122295",
+        "Status": "Booked",
+        "Itinerary number": 72078120013120,
+        "Reservation made": "2026-08-17T14:26:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR1O",
+        "Rate plan name": "Member Only Rate - NR",
+        "Guest count": 3,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 0,
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": -1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-17T14:26:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-17T14:26:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:18.124Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-17T14:26:00-07:00"
+        }
+    },
+    "44144903": {
+        "Guest": "Andrew White",
+        "Reservation": "2490828909",
+        "Confirmation": "44144903",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-27",
+        "Room": "Studio Suite, 1 King Bed with Sofa bed, Non Smoking",
+        "Booked on": "2026-06-22T07:20:00-07:00",
+        "Booking amount": "87.77 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431850074343",
+        "EVC Expires": "6/2031",
+        "EVC CVV": "418",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Studio Suite, 1 King Bed with Sofa bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 69.04,
+                "priceCurrency": "USD",
+                "priceAmount": 80.75,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 69.04,
+        "Total payout": 99.48,
+        "Hotel confirmation code": "44144903",
+        "Status": "Booked",
+        "Itinerary number": 73479895680245,
+        "Reservation made": "2026-06-22T07:20:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR2X",
+        "Rate plan name": "Advance Purchase Rate",
+        "Guest count": 3,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 1,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-26"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 1,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-06-22T07:20:00-07:00",
+            "hotelConfirmationDateTime": "2026-06-22T07:20:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:20.548Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-06-22T07:20:00-07:00"
+        }
+    },
+    "57545552": {
+        "Guest": "Danielle Charlton",
+        "Reservation": "2542342240",
+        "Confirmation": "57545552",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-28",
+        "Room": "Room, 1 King Bed, Accessible, Non Smoking",
+        "Booked on": "2026-08-24T13:43:00-07:00",
+        "Booking amount": "241.95 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5552431951732393",
+        "EVC Expires": "8/2031",
+        "EVC CVV": "022",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Accessible, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-27",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 189.3,
+        "Total payout": 274.05,
+        "Hotel confirmation code": "57545552",
+        "Status": "Booked",
+        "Itinerary number": 72078375721553,
+        "Reservation made": "2026-08-24T13:43:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP2EXP",
+        "Rate plan name": "Stay 2 Nights & Save",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-24T13:43:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-24T13:43:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:22.803Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-24T13:43:00-07:00"
+        }
+    },
+    "56947308": {
+        "Guest": "Ricardo A Ramirez",
+        "Reservation": "2540107142",
+        "Confirmation": "56947308",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-21T10:09:00-07:00",
+        "Booking amount": "70.06 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567174546338630",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "914",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 53.3,
+                "priceCurrency": "USD",
+                "priceAmount": 69.22,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 53.3,
+        "Total payout": 85.98,
+        "Hotel confirmation code": "56947308",
+        "Status": "Booked",
+        "Itinerary number": 73527159930832,
+        "Reservation made": "2026-08-21T10:09:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": "1 King Bed",
+        "Rate plan code": "LOPQ5",
+        "Rate plan name": "Opaque LOPQ5",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 1,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 1,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-21T10:09:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-21T10:09:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:24.997Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-21T10:09:00-07:00"
+        }
+    },
+    "57741079": {
+        "Guest": "Herman James",
+        "Reservation": "2543089630",
+        "Confirmation": "57741079",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-25T11:58:00-07:00",
+        "Booking amount": "80.65 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567174304519298",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "288",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 63.1,
+        "Total payout": 91.35,
+        "Hotel confirmation code": "57741079",
+        "Status": "Booked",
+        "Itinerary number": 72078409392733,
+        "Reservation made": "2026-08-25T11:58:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP1EXP",
+        "Rate plan name": "Stay 1 Night & Save",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 72,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-25"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 72,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 72
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-25T11:58:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-25T11:58:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:27.263Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-25T11:58:00-07:00"
+        }
+    },
+    "50717205": {
+        "Guest": "Dan Carlson",
+        "Reservation": "2516355998",
+        "Confirmation": "50717205",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-27",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-07-22T17:25:00-07:00",
+        "Booking amount": "81.44 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567170298807004",
+        "EVC Expires": "7/2029",
+        "EVC CVV": "316",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 59.59,
+                "priceCurrency": "USD",
+                "priceAmount": 69.7,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 59.59,
+        "Total payout": 91.55,
+        "Hotel confirmation code": "50717205",
+        "Status": "Booked",
+        "Itinerary number": 73502079037896,
+        "Reservation made": "2026-07-22T17:25:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SAPR2X",
+        "Rate plan name": "Advance Purchase Rate",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 1,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "FullCostOfStay"
+            },
+            "nonrefundableDatesList": [
+                [
+                    "2026-08-26"
+                ]
+            ],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 1,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "FullCostOfStay",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 1
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-07-22T17:25:00-07:00",
+            "hotelConfirmationDateTime": "2026-07-22T17:25:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:29.237Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-07-22T17:25:00-07:00"
+        }
+    },
+    "57477363": {
+        "Guest": "Kia Hawkins",
+        "Reservation": "2542127591",
+        "Confirmation": "57477363",
+        "Check-in": "2026-08-26",
+        "Check-out": "2026-08-31",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-24T08:42:00-07:00",
+        "Booking amount": "0 USD",
+        "Payment Information": "Hotel collects payment from the traveler",
+        "EVC Card Number": null,
+        "EVC Expires": null,
+        "EVC CVV": null,
+        "EVC Billing Address": null,
+        "Real Card Number": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf1932",
+        "Real Expires": {
+            "year": 2028,
+            "month": 5
+        },
+        "Real CVV": "\u25cf\u25cf\u25cf",
+        "Real Billing Address": {
+            "addressLine1": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "city": "Any city",
+            "postalCode": "\u25cf\u25cf\u25cf\u25cf\u25cf",
+            "province": "MA",
+            "countryCode": "USA"
+        },
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-26",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-27",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-28",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-29",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            },
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-30",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 0.0,
+                "priceCurrency": "USD",
+                "priceAmount": 0.0,
+                "commisionAmount": 0.0
+            }
+        ],
+        "Subtotal": 0.0,
+        "Total payout": 0.0,
+        "Hotel confirmation code": "57477363",
+        "Status": "Cancelled",
+        "Itinerary number": 73529195767446,
+        "Reservation made": "2026-08-24T08:42:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SP2R",
+        "Rate plan name": "Stay 2 Nights & Save",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-24T08:42:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-24T08:42:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:31.344Z",
+            "cancellationDateTime": "2026-08-24T20:36:00-07:00",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-24T20:36:00-07:00"
+        }
+    },
+    "57365643": {
+        "Guest": "Henry Kolodzieski",
+        "Reservation": "2541632914",
+        "Confirmation": "57365643",
+        "Check-in": "2026-08-25",
+        "Check-out": "2026-08-26",
+        "Room": "Room, 1 King Bed, Non Smoking",
+        "Booked on": "2026-08-23T16:49:00-07:00",
+        "Booking amount": "80.65 USD",
+        "Payment Information": "Expedia collects payment from traveler: Hotel charges virtual card.",
+        "EVC Card Number": "5567173291139094",
+        "EVC Expires": "8/2029",
+        "EVC CVV": "123",
+        "EVC Billing Address": {
+            "addressLine1": "1111 Expedia Group Way W",
+            "addressLine2": "",
+            "city": "Seattle",
+            "postalCode": "98119",
+            "province": "WA",
+            "countryCode": "USA"
+        },
+        "Real Card Number": null,
+        "Real Expires": null,
+        "Real CVV": null,
+        "Real Billing Address": null,
+        "Room Type": "Room, 1 King Bed, Non Smoking",
+        "Nightly rates": [
+            {
+                "type": "DAILY_RATE",
+                "date": "2026-08-25",
+                "description": "Daily_Rate",
+                "costCurrency": "USD",
+                "costAmount": 63.1,
+                "priceCurrency": "USD",
+                "priceAmount": 73.8,
+                "commisionAmount": 0.0,
+                "discountPriceAmount": -8.2,
+                "discountCostAmount": -7.01
+            }
+        ],
+        "Subtotal": 63.1,
+        "Total payout": 91.35,
+        "Hotel confirmation code": "57365643",
+        "Status": "Booked",
+        "Itinerary number": 72078343412189,
+        "Reservation made": "2026-08-23T16:49:00-07:00",
+        "Pricing model": "OccupancyBased",
+        "IATA/TIDS #": null,
+        "Bedding request": null,
+        "Rate plan code": "SEMBR",
+        "Rate plan name": "Member Only Rate",
+        "Guest count": 1,
+        "Cancellation Policy": {
+            "currency": "USD",
+            "cancelPenaltyCostCurrency": "USD",
+            "cancellationPolicyType": "BasePolicy",
+            "cancellationWindowInHours": 24,
+            "outsideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "None"
+            },
+            "insideWindowPenalties": {
+                "cancelPenaltyCost": 0,
+                "cancelPenaltyPrice": 0,
+                "cancelPenaltyPerStayFee": "1stNightRoomAndTax"
+            },
+            "nonrefundableDatesList": [],
+            "cancellationPenalties": [
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "None",
+                    "cancelPenaltyStartHour": 24,
+                    "cancelPenaltyEndHour": -1
+                },
+                {
+                    "cancelPenaltyCost": 0,
+                    "cancelPenaltyPrice": 0,
+                    "cancelPenaltyPerStayFee": "1stNightRoomAndTax",
+                    "cancelPenaltyStartHour": 0,
+                    "cancelPenaltyEndHour": 24
+                }
+            ]
+        },
+        "Reservation History": {
+            "bookedDateTime": "2026-08-23T16:49:00-07:00",
+            "hotelConfirmationDateTime": "2026-08-23T16:49:00-07:00",
+            "lastUpdatedDateTime": "2026-08-26T08:35:33.498Z",
+            "reconciliationSourceSystem": "PartnerCentral",
+            "lastNotificationDateTime": "2026-08-23T16:49:00-07:00"
+        }
+    }
+}
